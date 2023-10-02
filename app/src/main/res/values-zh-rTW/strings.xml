@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">鮑可夢</string>
+
+    <string name="text_close_app">再點一次關閉App</string>
+    <string name="type_normal">一般</string>
+    <string name="type_fighting">格鬥</string>
+    <string name="type_flying">飛行</string>
+    <string name="type_poison">毒</string>
+    <string name="type_ground">地面</string>
+    <string name="type_rock">岩石</string>
+    <string name="type_bug">蟲</string>
+    <string name="type_ghost">幽靈</string>
+    <string name="type_steel">鋼</string>
+    <string name="type_fire">火</string>
+    <string name="type_water">水</string>
+    <string name="type_grass">草</string>
+    <string name="type_electric">電</string>
+    <string name="type_psychic">超能力</string>
+    <string name="type_ice">冰</string>
+    <string name="type_dragon">龍</string>
+    <string name="type_dark">惡</string>
+    <string name="type_fairy">妖精</string>
+    <string name="type_unknown">\???</string>
+
+    <string name="text_nothing">無</string>
+    <string name="text_contain_two_types">雙屬性</string>
+    <string name="text_select_types">請選擇</string>
+    <string name="text_result">結果</string>
+    <string name="text_be_super_effective_1">以下對其效果絕佳(×2)</string>
+    <string name="text_be_super_effective_2">以下對其效果絕佳(×4)</string>
+    <string name="text_be_not_very_effective_1">以下對其效果不好(×0.5)</string>
+    <string name="text_be_not_very_effective_2">以下對其效果不好(×0.25)</string>
+    <string name="text_be_not_effective">以下對其沒有效果(×0)</string>
+
+    <string name="text_keep_screen_on">保持螢幕開啟</string>
+
+</resources>
